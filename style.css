@@ -138,12 +138,15 @@ justify-content: space-between;
 .sign.light{
 color: #F9FAF8;
 background-color: #3882F6;
-padding: 8px 34px;
+padding: 8px 30px;
 border-radius: 8px;
 border:3px solid;
 font-size:18px;
 font-weight: bold;
+max-height: 45px;
+white-space: nowrap;
 }
+
 /*________________________________________________________________________*/
 /*FOOT*/
 .footer {
